@@ -16,5 +16,5 @@ Welcome to ClassicFitness, a simple frontend gym website created using HTML, CSS
 # Clone the repository:
 
    ```bash
-git clone https://github.com/your-username/classicFitness.git
+git clone https://github.com/Vaibhav-2401/classicFitness.git
 
