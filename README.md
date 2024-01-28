@@ -11,9 +11,10 @@ Welcome to ClassicFitness, a simple frontend gym website created using HTML, CSS
 - BMI Calculator: Calculate your Body Mass Index (BMI) to assess your fitness level.
 
 
+# Feel free to explore the website, and thank you for checking out ClassicFitness!
+
 # Clone the repository:
 
    ```bash
 git clone https://github.com/your-username/classicFitness.git
 
-# Feel free to explore the website, and thank you for checking out ClassicFitness!
